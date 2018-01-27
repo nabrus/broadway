@@ -2,3 +2,44 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+/* titles */
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+.titles {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+/* main text and footer */
+
+p {
+  font-size: 14px;
+}
+
+.footer p {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
